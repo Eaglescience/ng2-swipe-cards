@@ -2,7 +2,7 @@ import {} from 'jasmine';
 
 import { inject, TestBed } from '@angular/core/testing';
 
-import { SumService } from './../../angular-library-starter';
+import { SumService } from './../../public_api';
 
 describe('SumService', () => {
 

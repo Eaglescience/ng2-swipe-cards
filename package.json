@@ -41,7 +41,7 @@
         "@angular/router": "^7.2.15",
         "hammerjs": "2.0.8",
         "@ng-bootstrap/ng-bootstrap": "4.0.0",
-        "@types/hammerjs": ""
+        "@types/hammerjs": "2.0.33"
     },
     "peerDependencies": {
         "@angular/common": ">= 5.0.0",

@@ -41,7 +41,7 @@
         "@angular/router": "8.2.14",
         "hammerjs": "2.0.8",
         "@ng-bootstrap/ng-bootstrap": "5.1.4",
-        "@types/hammerjs": "2.0.33"
+        "@types/hammerjs": "2.0.36"
     },
     "peerDependencies": {
         "@angular/common": "8.2.14",
@@ -61,7 +61,7 @@
         "@types/node": "12.12.11",
         "chalk": "3.0.0",
         "codelyzer": "5.2.0",
-        "core-js": "3.4.1",
+        "core-js": "3.4.2",
         "jasmine-core": "3.5.0",
         "karma": "4.4.1",
         "karma-chrome-launcher": "3.1.0",
@@ -69,10 +69,10 @@
         "karma-sourcemap-loader": "0.3.7",
         "karma-spec-reporter": "0.0.32",
         "karma-webpack": "4.0.2",
-        "karma-coverage-istanbul-reporter": "2.1.0",
+        "karma-coverage-istanbul-reporter": "2.1.1",
         "istanbul-instrumenter-loader": "3.0.1",
         "reflect-metadata": "0.1.13",
-        "rollup": "1.27.3",
+        "rollup": "1.27.4",
         "rollup-plugin-node-resolve": "5.2.0",
         "rollup-plugin-sourcemaps": "0.4.2",
         "rollup-plugin-license": "0.12.1",
